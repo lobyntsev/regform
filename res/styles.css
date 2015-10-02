@@ -1,0 +1,31 @@
+* {margin:0; padding:0; font-family:arial}
+a.enter {text-decoration:underline; color:#49f}
+a.enter:hover {color:#f80}
+a.out {text-decoration:underline; color:#555}
+a.out:hover {color:#f80}
+a.footer {text-decoration:underline; color:#99d}
+a.footer:hover {color:#226}
+a.lang {background-color:#bbf; padding:1px; text-decoration:none; color:#000; border-right:1px solid #559; border-bottom:1px solid #559;
+	border-left:1px solid #aae; border-top:1px solid #aae}
+a.lang:hover {background-color:#ccf}
+div.header {margin:10px 10px 5px 10px; padding:10px 20px; border:1px solid #dff; color:#49f; font-size:1.2em; overflow:hidden; zoom:1}
+div.lang {float:right; width:50px; font-size:0.7em; color:#333}
+div.main {overflow:hidden; zoom:1}
+div.left {margin:5px 10px; padding:3px; width:300px; min-height:300px; float:left; border:1px solid #dff}
+div.right {margin:5px 10px 10px 325px; padding:3px; min-height:400px; border:1px solid #dff}
+div.footer {margin:5px 10px; padding:3px; border-top:1px solid #dff; color:#99d; font-size:0.9em}
+div.reg {position:absolute; top:50%; left:50%; width:600px; margin-top:-160px; margin-left:-300px}
+div.inform {padding:5px; color:#f44}
+div.headblock {margin-top:10px; padding-left:10px; border-top:1px solid #bbb; border-left:1px solid #bbb; border-right:1px solid #bbb;
+	font-size:1.2em; background:url(/res/head.jpg) 0 0 no-repeat}
+div.headleft {padding-left:10px; background:url(/res/head.jpg) 0 0 no-repeat; font-size:1.2em}
+div.block {border:1px solid #bbb}
+span.blue {color:#00f}
+span.red {color:#f00}
+table.reg {width:100%; border-spacing:7px; border-collapse:separate}
+td.lreg {width:37%; text-align:right; vertical-align:top}
+td.right {text-align:right}
+td.lprof {width:20%; text-align:right; vertical-align:top}
+textarea.padding {padding:3px}
+.inputRed {border:1px solid #f00; background:#fcc; color:#f00}
+.inputGreen {border:1px solid #8c5; background:#efc}
